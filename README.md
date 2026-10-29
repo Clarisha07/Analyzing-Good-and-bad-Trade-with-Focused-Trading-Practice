@@ -1,0 +1,2 @@
+# Analyzing-Good-and-bad-Trade-with-Focused-Trading-Practice
+This trading report focuses on identifying good trades, identifying poor-quality trades, and focused trading. It helps to understand the importance of proper entry and exit points, confirming trading signals, avoiding unnecessary trades, and following a clear trading strategy. It also helps improve trading discipline and decision-making skills.
